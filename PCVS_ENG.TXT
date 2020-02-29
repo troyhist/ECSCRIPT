@@ -1,0 +1,24 @@
+                   PcvsView 2.32 Universal Graphics Viewer!
+
+Syntax of program:
+
+     PCVSVIEW /?         - to get given reference
+     PCVSVIEW <filename> - starting a view program depending
+                           on extensions of filename
+
+Processed extensions:
+
+     PAL          - palettes of format PAL96C
+     CGA, VGA     - dumps of memory of video modes CGA and VGA
+     F16, F14, F8 - fonts of standard BitFont (Evafont)
+     LMO          - sprites of format LMO96C
+     SPR          - libraries of sprites of format SPR98a
+     GIF          - pictures of format GIF87a
+     TXC          - text files with macro commands of library
+                    Enhanced CONIO versions 1.05
+
+All reviews and offers send on addresses:
+
+        123:45/5.19@yesnet, 167:5020/53.19@madnet,
+        2:5020/3939.19@fidonet, serg@arstel.ru
+
